@@ -1,0 +1,1 @@
+objection patchapk -s zombeast.apk -c libfrida-gadget.config.so -l libfrida-gadget.script.so
